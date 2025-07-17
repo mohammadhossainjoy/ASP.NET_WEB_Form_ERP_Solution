@@ -13,5 +13,20 @@ namespace HR.UI
         {
 
         }
+
+        protected void btnSubmit_Click(object sender, EventArgs e)
+        {
+            lblCompanyName.Text = string.Empty;
+            lblLocation.Text = string.Empty;
+            lblEstablished.Text = string.Empty;
+            lblContact.Text = string.Empty;
+
+            lblCompanyName.Text = txtCompanyName.Text;
+            lblLocation.Text = txtLocation.Text;
+            lblEstablished.Text = txtEstablished.Text;
+            lblContact.Text = txtContact.Text;
+
+            PanelSubmitted.Visible = true;
+        }
     }
 }
