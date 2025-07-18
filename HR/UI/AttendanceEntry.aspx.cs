@@ -7,7 +7,7 @@ using System.Web.UI.WebControls;
 
 namespace HR.UI
 {
-    public partial class LeaveEntry : System.Web.UI.Page
+    public partial class AttendanceEntry : System.Web.UI.Page
     {
         protected void Page_Load(object sender, EventArgs e)
         {
@@ -17,14 +17,15 @@ namespace HR.UI
         protected void btnSubmit_Click(object sender, EventArgs e)
         {
             lblEmployeeName.Text = string.Empty;
-            lblLeaveType.Text = string.Empty;
-            lblFromDate.Text = string.Empty;
-            lblToDate.Text = string.Empty;
-
+            lblDate.Text = string.Empty;
+            lblInTime.Text = string.Empty;
+            lblOutTime.Text = string.Empty;
             lblEmployeeName.Text = txtEmployeeName.Text;
-            lblLeaveType.Text = ddlLeaveType.SelectedItem.Text;
-            lblFromDate.Text = txtFromDate.Text;
-            lblToDate.Text = txtToDate.Text;
+            lblDate.Text = txtDate.Text;
+            lblInTime.Text = txtInTime.Text;
+            lblOutTime.Text = txtOutTime.Text;
+
+            PanelSubmitted.Visible = true;
         }
     }
 }

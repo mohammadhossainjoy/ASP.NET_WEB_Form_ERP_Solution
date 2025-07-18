@@ -3,20 +3,12 @@
   "WorkspaceRootPath": "C:\\ASP.NET 3 Dots\\ERP\\ERP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{44F34A41-11E7-44CF-9A4C-45AEBEEECBAA}|HR\\HR.csproj|c:\\asp.net 3 dots\\erp\\erp\\hr\\ui\\companysetup.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44F34A41-11E7-44CF-9A4C-45AEBEEECBAA}|HR\\HR.csproj|solutionrelative:hr\\ui\\companysetup.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{44F34A41-11E7-44CF-9A4C-45AEBEEECBAA}|HR\\HR.csproj|c:\\asp.net 3 dots\\erp\\erp\\hr\\ui\\attendanceentry.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F34A41-11E7-44CF-9A4C-45AEBEEECBAA}|HR\\HR.csproj|solutionrelative:hr\\ui\\attendanceentry.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44F34A41-11E7-44CF-9A4C-45AEBEEECBAA}|HR\\HR.csproj|C:\\ASP.NET 3 Dots\\ERP\\ERP\\hr\\ui\\companysetup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{44F34A41-11E7-44CF-9A4C-45AEBEEECBAA}|HR\\HR.csproj|solutionrelative:hr\\ui\\companysetup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44F34A41-11E7-44CF-9A4C-45AEBEEECBAA}|HR\\HR.csproj|c:\\asp.net 3 dots\\erp\\erp\\hr\\ui\\employeeinformation.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{44F34A41-11E7-44CF-9A4C-45AEBEEECBAA}|HR\\HR.csproj|solutionrelative:hr\\ui\\employeeinformation.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44F34A41-11E7-44CF-9A4C-45AEBEEECBAA}|HR\\HR.csproj|C:\\ASP.NET 3 Dots\\ERP\\ERP\\hr\\ui\\employeeinformation.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44F34A41-11E7-44CF-9A4C-45AEBEEECBAA}|HR\\HR.csproj|solutionrelative:hr\\ui\\employeeinformation.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{44F34A41-11E7-44CF-9A4C-45AEBEEECBAA}|HR\\HR.csproj|c:\\asp.net 3 dots\\erp\\erp\\hr\\ui\\attendanceentry.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{44F34A41-11E7-44CF-9A4C-45AEBEEECBAA}|HR\\HR.csproj|solutionrelative:hr\\ui\\attendanceentry.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{44F34A41-11E7-44CF-9A4C-45AEBEEECBAA}|HR\\HR.csproj|C:\\ASP.NET 3 Dots\\ERP\\ERP\\hr\\ui\\leaveentry.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
@@ -27,20 +19,40 @@
       "RelativeMoniker": "D:0:0:{44F34A41-11E7-44CF-9A4C-45AEBEEECBAA}|HR\\HR.csproj|solutionrelative:hr\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44F34A41-11E7-44CF-9A4C-45AEBEEECBAA}|HR\\HR.csproj|C:\\ASP.NET 3 Dots\\ERP\\ERP\\hr\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{44F34A41-11E7-44CF-9A4C-45AEBEEECBAA}|HR\\HR.csproj|solutionrelative:hr\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{44F34A41-11E7-44CF-9A4C-45AEBEEECBAA}|HR\\HR.csproj|c:\\asp.net 3 dots\\erp\\erp\\hr\\ui\\companysetup.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F34A41-11E7-44CF-9A4C-45AEBEEECBAA}|HR\\HR.csproj|solutionrelative:hr\\ui\\companysetup.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44F34A41-11E7-44CF-9A4C-45AEBEEECBAA}|HR\\HR.csproj|C:\\ASP.NET 3 Dots\\ERP\\ERP\\hr\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44F34A41-11E7-44CF-9A4C-45AEBEEECBAA}|HR\\HR.csproj|solutionrelative:hr\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{44F34A41-11E7-44CF-9A4C-45AEBEEECBAA}|HR\\HR.csproj|c:\\asp.net 3 dots\\erp\\erp\\hr\\ui\\leaveentry.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F34A41-11E7-44CF-9A4C-45AEBEEECBAA}|HR\\HR.csproj|solutionrelative:hr\\ui\\leaveentry.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F34A41-11E7-44CF-9A4C-45AEBEEECBAA}|HR\\HR.csproj|c:\\asp.net 3 dots\\erp\\erp\\hr\\ui\\departmentsetup.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F34A41-11E7-44CF-9A4C-45AEBEEECBAA}|HR\\HR.csproj|solutionrelative:hr\\ui\\departmentsetup.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{44F34A41-11E7-44CF-9A4C-45AEBEEECBAA}|HR\\HR.csproj|C:\\ASP.NET 3 Dots\\ERP\\ERP\\hr\\ui\\departmentsetup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{44F34A41-11E7-44CF-9A4C-45AEBEEECBAA}|HR\\HR.csproj|solutionrelative:hr\\ui\\departmentsetup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44F34A41-11E7-44CF-9A4C-45AEBEEECBAA}|HR\\HR.csproj|C:\\ASP.NET 3 Dots\\ERP\\ERP\\hr\\ui\\attandanceentry.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{44F34A41-11E7-44CF-9A4C-45AEBEEECBAA}|HR\\HR.csproj|solutionrelative:hr\\ui\\attandanceentry.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{44F34A41-11E7-44CF-9A4C-45AEBEEECBAA}|HR\\HR.csproj|C:\\ASP.NET 3 Dots\\ERP\\ERP\\hr\\ui\\companysetup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{44F34A41-11E7-44CF-9A4C-45AEBEEECBAA}|HR\\HR.csproj|solutionrelative:hr\\ui\\companysetup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F34A41-11E7-44CF-9A4C-45AEBEEECBAA}|HR\\HR.csproj|C:\\ASP.NET 3 Dots\\ERP\\ERP\\hr\\ui\\employeeinformation.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{44F34A41-11E7-44CF-9A4C-45AEBEEECBAA}|HR\\HR.csproj|solutionrelative:hr\\ui\\employeeinformation.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F34A41-11E7-44CF-9A4C-45AEBEEECBAA}|HR\\HR.csproj|C:\\ASP.NET 3 Dots\\ERP\\ERP\\hr\\ui\\employeeinformation.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F34A41-11E7-44CF-9A4C-45AEBEEECBAA}|HR\\HR.csproj|solutionrelative:hr\\ui\\employeeinformation.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F34A41-11E7-44CF-9A4C-45AEBEEECBAA}|HR\\HR.csproj|C:\\ASP.NET 3 Dots\\ERP\\ERP\\hr\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{44F34A41-11E7-44CF-9A4C-45AEBEEECBAA}|HR\\HR.csproj|solutionrelative:hr\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F34A41-11E7-44CF-9A4C-45AEBEEECBAA}|HR\\HR.csproj|C:\\ASP.NET 3 Dots\\ERP\\ERP\\hr\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F34A41-11E7-44CF-9A4C-45AEBEEECBAA}|HR\\HR.csproj|solutionrelative:hr\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{44F34A41-11E7-44CF-9A4C-45AEBEEECBAA}|HR\\HR.csproj|C:\\ASP.NET 3 Dots\\ERP\\ERP\\hr\\content\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
@@ -50,7 +62,7 @@
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
-      "VerticalTabListWidth": 100,
+      "VerticalTabListWidth": 137,
       "DocumentGroups": [
         {
           "DockedWidth": 200,
@@ -59,6 +71,58 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "AttendanceEntry.aspx.cs",
+              "DocumentMoniker": "C:\\ASP.NET 3 Dots\\ERP\\ERP\\HR\\UI\\AttendanceEntry.aspx.cs",
+              "RelativeDocumentMoniker": "HR\\UI\\AttendanceEntry.aspx.cs",
+              "ToolTip": "C:\\ASP.NET 3 Dots\\ERP\\ERP\\HR\\UI\\AttendanceEntry.aspx.cs",
+              "RelativeToolTip": "HR\\UI\\AttendanceEntry.aspx.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAIAwwA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T03:11:22.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AttendanceEntry.aspx",
+              "DocumentMoniker": "C:\\ASP.NET 3 Dots\\ERP\\ERP\\HR\\UI\\AttendanceEntry.aspx",
+              "RelativeDocumentMoniker": "HR\\UI\\AttendanceEntry.aspx",
+              "ToolTip": "C:\\ASP.NET 3 Dots\\ERP\\ERP\\HR\\UI\\AttendanceEntry.aspx*",
+              "RelativeToolTip": "HR\\UI\\AttendanceEntry.aspx*",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-07-18T03:07:20.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LeaveEntry.aspx.cs",
+              "DocumentMoniker": "C:\\ASP.NET 3 Dots\\ERP\\ERP\\HR\\UI\\LeaveEntry.aspx.cs",
+              "RelativeDocumentMoniker": "HR\\UI\\LeaveEntry.aspx.cs",
+              "ToolTip": "C:\\ASP.NET 3 Dots\\ERP\\ERP\\HR\\UI\\LeaveEntry.aspx.cs",
+              "RelativeToolTip": "HR\\UI\\LeaveEntry.aspx.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T02:52:32.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DepartmentSetup.aspx.cs",
+              "DocumentMoniker": "C:\\ASP.NET 3 Dots\\ERP\\ERP\\HR\\UI\\DepartmentSetup.aspx.cs",
+              "RelativeDocumentMoniker": "HR\\UI\\DepartmentSetup.aspx.cs",
+              "ToolTip": "C:\\ASP.NET 3 Dots\\ERP\\ERP\\HR\\UI\\DepartmentSetup.aspx.cs",
+              "RelativeToolTip": "HR\\UI\\DepartmentSetup.aspx.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAIAwwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T02:22:35.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "CompanySetup.aspx.cs",
               "DocumentMoniker": "C:\\ASP.NET 3 Dots\\ERP\\ERP\\HR\\UI\\CompanySetup.aspx.cs",
               "RelativeDocumentMoniker": "HR\\UI\\CompanySetup.aspx.cs",
@@ -71,7 +135,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
               "Title": "EmployeeInformation.aspx.cs",
               "DocumentMoniker": "C:\\ASP.NET 3 Dots\\ERP\\ERP\\HR\\UI\\EmployeeInformation.aspx.cs",
               "RelativeDocumentMoniker": "HR\\UI\\EmployeeInformation.aspx.cs",
@@ -84,7 +148,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "BundleConfig.cs",
               "DocumentMoniker": "C:\\ASP.NET 3 Dots\\ERP\\ERP\\HR\\App_Start\\BundleConfig.cs",
               "RelativeDocumentMoniker": "HR\\App_Start\\BundleConfig.cs",
@@ -97,7 +161,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "Site.css",
               "DocumentMoniker": "C:\\ASP.NET 3 Dots\\ERP\\ERP\\HR\\Content\\Site.css",
               "RelativeDocumentMoniker": "HR\\Content\\Site.css",
@@ -109,7 +173,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "bootstrap.css",
               "DocumentMoniker": "C:\\ASP.NET 3 Dots\\ERP\\ERP\\HR\\Content\\bootstrap.css",
               "RelativeDocumentMoniker": "HR\\Content\\bootstrap.css",
@@ -120,7 +184,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "LeaveEntry.aspx",
               "DocumentMoniker": "C:\\ASP.NET 3 Dots\\ERP\\ERP\\HR\\UI\\LeaveEntry.aspx",
               "RelativeDocumentMoniker": "HR\\UI\\LeaveEntry.aspx",
@@ -133,7 +197,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "EmployeeInformation.aspx",
               "DocumentMoniker": "C:\\ASP.NET 3 Dots\\ERP\\ERP\\HR\\UI\\EmployeeInformation.aspx",
               "RelativeDocumentMoniker": "HR\\UI\\EmployeeInformation.aspx",
@@ -146,46 +210,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "DepartmentSetup.aspx",
               "DocumentMoniker": "C:\\ASP.NET 3 Dots\\ERP\\ERP\\HR\\UI\\DepartmentSetup.aspx",
               "RelativeDocumentMoniker": "HR\\UI\\DepartmentSetup.aspx",
-              "ToolTip": "C:\\ASP.NET 3 Dots\\ERP\\ERP\\HR\\UI\\DepartmentSetup.aspx",
-              "RelativeToolTip": "HR\\UI\\DepartmentSetup.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "ToolTip": "C:\\ASP.NET 3 Dots\\ERP\\ERP\\HR\\UI\\DepartmentSetup.aspx*",
+              "RelativeToolTip": "HR\\UI\\DepartmentSetup.aspx*",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2025-07-17T06:27:22.26Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "CompanySetup.aspx",
               "DocumentMoniker": "C:\\ASP.NET 3 Dots\\ERP\\ERP\\HR\\UI\\CompanySetup.aspx",
               "RelativeDocumentMoniker": "HR\\UI\\CompanySetup.aspx",
-              "ToolTip": "C:\\ASP.NET 3 Dots\\ERP\\ERP\\HR\\UI\\CompanySetup.aspx*",
-              "RelativeToolTip": "HR\\UI\\CompanySetup.aspx*",
-              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "ToolTip": "C:\\ASP.NET 3 Dots\\ERP\\ERP\\HR\\UI\\CompanySetup.aspx",
+              "RelativeToolTip": "HR\\UI\\CompanySetup.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2025-07-17T06:26:54.268Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "AttandanceEntry.aspx",
-              "DocumentMoniker": "C:\\ASP.NET 3 Dots\\ERP\\ERP\\HR\\UI\\AttandanceEntry.aspx",
-              "RelativeDocumentMoniker": "HR\\UI\\AttandanceEntry.aspx",
-              "ToolTip": "C:\\ASP.NET 3 Dots\\ERP\\ERP\\HR\\UI\\AttandanceEntry.aspx",
-              "RelativeToolTip": "HR\\UI\\AttandanceEntry.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-07-17T06:26:18.618Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "Site.Master",
               "DocumentMoniker": "C:\\ASP.NET 3 Dots\\ERP\\ERP\\HR\\Site.Master",
               "RelativeDocumentMoniker": "HR\\Site.Master",

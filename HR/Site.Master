@@ -54,7 +54,7 @@
                         <li class="nav-item"><a class="nav-link" runat="server" href="~/UI/EmployeeInformation.aspx">EmployeeInformation</a></li>
                         <li class="nav-item"><a class="nav-link" runat="server" href="~/UI/CompanySetup.aspx">CompanySetup</a></li>
                         <li class="nav-item"><a class="nav-link" runat="server" href="~/UI/DepartmentSetup.aspx">DepartmentSetup</a></li>
-                        <li class="nav-item"><a class="nav-link" runat="server" href="~/UI/AttandanceEntry.aspx">AttandanceEntry</a></li>
+                        <li class="nav-item"><a class="nav-link" runat="server" href="~/UI/AttendanceEntry.aspx">AttendanceEntry</a></li>
                         <li class="nav-item"><a class="nav-link" runat="server" href="~/UI/LeaveEntry.aspx">LeaveEntry.aspx</a></li>
                     </ul>
                 </div>

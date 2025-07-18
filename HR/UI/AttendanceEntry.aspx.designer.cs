@@ -11,7 +11,7 @@ namespace HR.UI
 {
 
 
-    public partial class LeaveEntry
+    public partial class AttendanceEntry
     {
 
         /// <summary>
@@ -24,31 +24,31 @@ namespace HR.UI
         protected global::System.Web.UI.WebControls.TextBox txtEmployeeName;
 
         /// <summary>
-        /// ddlLeaveType control.
+        /// txtDate control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.DropDownList ddlLeaveType;
+        protected global::System.Web.UI.WebControls.TextBox txtDate;
 
         /// <summary>
-        /// txtFromDate control.
+        /// txtInTime control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox txtFromDate;
+        protected global::System.Web.UI.WebControls.TextBox txtInTime;
 
         /// <summary>
-        /// txtToDate control.
+        /// txtOutTime control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox txtToDate;
+        protected global::System.Web.UI.WebControls.TextBox txtOutTime;
 
         /// <summary>
         /// btnSubmit control.
@@ -78,30 +78,30 @@ namespace HR.UI
         protected global::System.Web.UI.WebControls.Label lblEmployeeName;
 
         /// <summary>
-        /// lblLeaveType control.
+        /// lblDate control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label lblLeaveType;
+        protected global::System.Web.UI.WebControls.Label lblDate;
 
         /// <summary>
-        /// lblFromDate control.
+        /// lblInTime control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label lblFromDate;
+        protected global::System.Web.UI.WebControls.Label lblInTime;
 
         /// <summary>
-        /// lblToDate control.
+        /// lblOutTime control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label lblToDate;
+        protected global::System.Web.UI.WebControls.Label lblOutTime;
     }
 }
