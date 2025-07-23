@@ -10,7 +10,7 @@
         <div class="row align-items-start">
 
             <!-- 🔹 Left Column: Input Form -->
-            <div class="col-md-6">
+            <div class="col-md-6 offset-md-3">
                 <div class="card p-4 shadow-sm">
                     <h5 class="text-primary fw-bold mb-4">Employee Information</h5>
 
@@ -63,7 +63,7 @@
                 </div>
             </div>
 
-            <!-- 🔹 Right Column: Submitted Info -->
+            <!-- 🔹 Right Column: Submitted Info 
             <div class="col-md-6">
                 <div class="card p-4 bg-light shadow-sm">
                     <h5 class="text-primary fw-bold mb-4">Submitted Information</h5>
@@ -79,7 +79,7 @@
                     </asp:Panel>
                 </div>
             </div>
-
+             -->
         </div>
     </div>
 
