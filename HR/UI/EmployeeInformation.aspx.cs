@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Configuration;
+using System.Data;
 using System.Data.SqlClient;
 using System.Linq;
 using System.Web;
@@ -19,7 +20,7 @@ namespace HR.UI
 
         }
 
-        protected void btnSubmit_Click(object sender, EventArgs e)
+        protected void btnAdd_Click(object sender, EventArgs e)
         {
 
             //lblName.Text = string.Empty;
@@ -66,6 +67,25 @@ namespace HR.UI
             SqlCommand cmd = new SqlCommand(sql, conn);
             cmd.ExecuteNonQuery();
             conn.Close();
+        }
+
+        protected void btnshow_Click(object sender, EventArgs e)
+        {
+            string connStr = "Data Source=localhost\\SQLEXPRESS;Initial Catalog=dbERP;User ID=mh;Password=123456";
+            SqlConnection conn = new SqlConnection(connStr);
+            conn.Open();
+
+            string sql = "SELECT * FROM [employeeInformation]";
+            SqlCommand cmd = new SqlCommand(sql, conn);
+            SqlDataAdapter da = new SqlDataAdapter(cmd);
+            DataTable dt = new DataTable();
+            da.Fill(dt);
+
+            gvEmployee.DataSource = dt;
+            gvEmployee.DataBind();
+
+            conn.Close();
+
         }
     }
 }
