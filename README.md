@@ -14,19 +14,21 @@ It manages **Employee, Company, Department, Attendance, and Leave information** 
 - Includes job title, department, email, phone, address, and join date
 - Connected with BAL (Business Access Layer) and DAL (Data Access Layer)
 
-### Company Module
-- Save company details such as name, location, and contact email
+### Company Module  
+- Add company details such as name, location, and contact email  
+- Submitted data is displayed instantly beside the form for reference  
 
-### Department Module
-- Create and manage departments for employees
+### Department Module  
+- Add and manage department details with manager name and location  
+- Submitted data is shown alongside the form dynamically  
 
-### Attendance Module
-- Record check-in and check-out times of employees
+### Attendance Module  
+- Record check-in and check-out times for employees  
+- Submitted records are displayed instantly beside the form  
 
-### Leave Module
-- Add and manage employee leave requests
-- Track leave history
-
+### Leave Module  
+- Add and manage employee leave requests  
+- Submitted leave data is displayed alongside the form  
 ---
 
 ## Technologies Used
@@ -39,15 +41,16 @@ It manages **Employee, Company, Department, Attendance, and Leave information** 
 ---
 
 ## Project Structure
+
 HRFusion Project
 │
-├── UI        # User Interface (ASP.NET pages)
-├── BAL       # Business Access Layer
-├── DAL       # Data Access Layer
-├── Content   # CSS and styling
-├── Scripts   # JavaScript and Bootstrap
-├── Web.config
-└── ERP.sln   # Visual Studio Solution
+├── UI              # User Interface (ASP.NET pages)
+├── BAL             # Business Access Layer
+├── DAL             # Data Access Layer
+├── Content         # CSS and styling
+├── Scripts         # JavaScript and Bootstrap
+├── Web.config      # Configuration file
+└── ERP.sln         # Visual Studio Solution
 
 
 
