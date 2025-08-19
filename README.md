@@ -42,15 +42,8 @@ It manages **Employee, Company, Department, Attendance, and Leave information** 
 
 ## Project Structure
 
-HRFusion Project
-│
-├── UI              # User Interface (ASP.NET pages)
-├── BAL             # Business Access Layer
-├── DAL             # Data Access Layer
-├── Content         # CSS and styling
-├── Scripts         # JavaScript and Bootstrap
-├── Web.config      # Configuration file
-└── ERP.sln         # Visual Studio Solution
+<img width="207" height="159" alt="image" src="https://github.com/user-attachments/assets/e5b4caa9-6092-4259-a0b0-096845bf6aac" />
+
 
 
 
