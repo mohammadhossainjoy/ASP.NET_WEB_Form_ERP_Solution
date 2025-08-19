@@ -25,6 +25,8 @@ namespace HR.UI
             lblLeaveType.Text = ddlLeaveType.SelectedItem.Text;
             lblFromDate.Text = txtFromDate.Text;
             lblToDate.Text = txtToDate.Text;
+
+            PanelSubmitted.Visible = true;
         }
     }
 }

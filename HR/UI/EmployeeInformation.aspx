@@ -6,7 +6,7 @@
         <h2 class="text-primary fw-bold">Employee Information</h2>
     </div>
 
-    <div class="container" >
+    <div class="container">
         <div class="row align-items-start">
             <div class="col-md-6 offset-md-3">
                 <div class="card p-4 shadow-sm">
@@ -95,35 +95,71 @@
                     OnRowUpdating="gvEmployee_RowUpdating"
                     OnRowCancelingEdit="gvEmployee_RowCancelingEdit"
                     OnRowDeleting="gvEmployee_RowDeleting"
-                    CssClass="table table-bordered text-center" CellPadding="4" ForeColor="#333333" GridLines="None">
-
-                    <AlternatingRowStyle BackColor="White" ForeColor="#284775" />
+                    CssClass="table table-bordered text-center">
 
                     <Columns>
                         <asp:BoundField DataField="Id" HeaderText="ID" ReadOnly="true" />
-                        <asp:BoundField DataField="Name" HeaderText="Name" />
-                        <asp:BoundField DataField="JobTitle" HeaderText="Job Title" />
-                        <asp:BoundField DataField="Department" HeaderText="Department" />
-                        <asp:BoundField DataField="DateOfBirth" HeaderText="Date of Birth" />
-                        <asp:BoundField DataField="Email" HeaderText="Email" />
-                        <asp:BoundField DataField="Phone" HeaderText="Phone" />
-                        <asp:BoundField DataField="Address" HeaderText="Address" />
-                        <asp:BoundField DataField="JoinDate" HeaderText="Join Date" />
+
+                        <asp:TemplateField HeaderText="Name">
+                            <ItemTemplate><%# Eval("Name") %></ItemTemplate>
+                            <EditItemTemplate>
+                                <asp:TextBox ID="txtEditName" runat="server" CssClass="form-control" Text='<%# Bind("Name") %>' />
+                            </EditItemTemplate>
+                        </asp:TemplateField>
+
+                        <asp:TemplateField HeaderText="Job Title">
+                            <ItemTemplate><%# Eval("JobTitle") %></ItemTemplate>
+                            <EditItemTemplate>
+                                <asp:TextBox ID="txtEditJobTitle" runat="server" CssClass="form-control" Text='<%# Bind("JobTitle") %>' />
+                            </EditItemTemplate>
+                        </asp:TemplateField>
+
+                        <asp:TemplateField HeaderText="Department">
+                            <ItemTemplate><%# Eval("Department") %></ItemTemplate>
+                            <EditItemTemplate>
+                                <asp:TextBox ID="txtEditDept" runat="server" CssClass="form-control" Text='<%# Bind("Department") %>' />
+                            </EditItemTemplate>
+                        </asp:TemplateField>
+
+                        <asp:TemplateField HeaderText="DOB">
+                            <ItemTemplate><%# Eval("DateOfBirth") %></ItemTemplate>
+                            <EditItemTemplate>
+                                <asp:TextBox ID="txtEditDOB" runat="server" CssClass="form-control" Text='<%# Bind("DateOfBirth") %>' />
+                            </EditItemTemplate>
+                        </asp:TemplateField>
+
+                        <asp:TemplateField HeaderText="Email">
+                            <ItemTemplate><%# Eval("Email") %></ItemTemplate>
+                            <EditItemTemplate>
+                                <asp:TextBox ID="txtEditEmail" runat="server" CssClass="form-control" Text='<%# Bind("Email") %>' />
+                            </EditItemTemplate>
+                        </asp:TemplateField>
+
+                        <asp:TemplateField HeaderText="Phone">
+                            <ItemTemplate><%# Eval("Phone") %></ItemTemplate>
+                            <EditItemTemplate>
+                                <asp:TextBox ID="txtEditPhone" runat="server" CssClass="form-control" Text='<%# Bind("Phone") %>' />
+                            </EditItemTemplate>
+                        </asp:TemplateField>
+
+                        <asp:TemplateField HeaderText="Address">
+                            <ItemTemplate><%# Eval("Address") %></ItemTemplate>
+                            <EditItemTemplate>
+                                <asp:TextBox ID="txtEditAddress" runat="server" CssClass="form-control" Text='<%# Bind("Address") %>' />
+                            </EditItemTemplate>
+                        </asp:TemplateField>
+
+                        <asp:TemplateField HeaderText="Join Date">
+                            <ItemTemplate><%# Eval("JoinDate") %></ItemTemplate>
+                            <EditItemTemplate>
+                                <asp:TextBox ID="txtEditJoinDate" runat="server" CssClass="form-control" Text='<%# Bind("JoinDate") %>' />
+                            </EditItemTemplate>
+                        </asp:TemplateField>
+
                         <asp:CommandField ShowEditButton="True" ShowDeleteButton="True" />
                     </Columns>
-                    <EditRowStyle BackColor="#999999" />
-                    <FooterStyle BackColor="#5D7B9D" Font-Bold="True" ForeColor="White" />
-                    <HeaderStyle BackColor="#5D7B9D" Font-Bold="True" ForeColor="White" />
-                    <PagerStyle BackColor="#284775" ForeColor="White" HorizontalAlign="Center" />
-                    <RowStyle BackColor="#F7F6F3" ForeColor="#333333" />
-                    <SelectedRowStyle BackColor="#E2DED6" Font-Bold="True" ForeColor="#333333" />
-                    <SortedAscendingCellStyle BackColor="#E9E7E2" />
-                    <SortedAscendingHeaderStyle BackColor="#506C8C" />
-                    <SortedDescendingCellStyle BackColor="#FFFDF8" />
-                    <SortedDescendingHeaderStyle BackColor="#6F8DAE" />
                 </asp:GridView>
             </div>
         </div>
     </div>
-
 </asp:Content>
